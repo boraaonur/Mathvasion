@@ -32,31 +32,27 @@ youtube_username                          :
 features                                  :
 
   - title                                 : Classic Mode
-    description                           : Designed for GitHub Pages. Fork. Edit _config.yml. Upload screenshot/video. Push to gh-pages branch. Voilá!
+    description                           : To reach the target, you will have to do summation. Click on the blocks with numbers necessary to complete the task.
     fontawesome_icon_name                 : magic
     
   - title                                 : Arcade Mode
-    description                           : Preview your app in the context of an iPhone device. Five different device colors included.
+    description                           : A more challenging and difficult mode, where you will have to combine summation, minus and multiplication to reach the target. This will for sure get your mind running as fast as a racing game to complete the operation.
     fontawesome_icon_name                 : mobile
 
   - title                                 : iPad Support
-    description                           : Preview app video on the iPhone device simply by placing your video files in the videos folder.
+    description                           : Mathvasion has special design for iPad devices.
     fontawesome_icon_name                 : play-circle
 
-  - title                                 : Leaderboards
-    description                           : Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
+  - title                                 : Leaderboards&Achievements
+    description                           : 2 different leaderboards allowing users to compare scores with each other and 15+ achievements.
     fontawesome_icon_name                 : sync
-
-  - title                                 : Achievements
-    description                           : Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : adjust
   
   - title                                 : 2 Different Themes
-    description                           : Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
+    description                           : The user can choose between the more vibrant colors of the Ocean theme and the less eye-catching Galactic theme.
     fontawesome_icon_name                 : star
 
   - title                                 : 12 Language Support
-    description                           : Display a smart app banner on iOS devices.
+    description                           : Mathvasion support English, French, German, Hindi, Italian, Japanese, Korean, Russian, Simplified Chinese, Spanish, Traditional Chinese, Turkish languages.
     fontawesome_icon_name                 : arrow-alt-circle-down
 
   - title                                 : # New Feature Title
